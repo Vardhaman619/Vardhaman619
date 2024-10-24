@@ -6,4 +6,4 @@
 Vardhaman619/Vardhaman619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Vardhaman's GitHub | Topics Over Time](https://stats.quira.sh/Vardhaman/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Vardhaman)
+[![Vardhaman's GitHub | Languages Over Time](https://stats.quira.sh/Vardhaman/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Vardhaman)
