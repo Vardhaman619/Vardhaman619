@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Vardhaman
-- 👀 I’m interested in Web Devlopment 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on open source project
-<!---
-Vardhaman619/Vardhaman619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Vardhaman's GitHub | Languages Over Time](https://stats.quira.sh/Vardhaman/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Vardhaman)
+# Hey there! 👋 I'm Vardhaman Bhandari
+
+**Full-Stack Dev | Open Source Enthusiast**
+
+Welcome to my corner of GitHub! I'm a full-stack developer who’s all about merging creativity with code. Currently balancing between freelance projects and open-source contributions, I love working with cutting-edge tech to create slick, user-friendly digital experiences. If it's innovative, efficient, and impactful – count me in! 😎
+
+
+### 📬 Contact Me
+Let’s connect! Whether it's about a project, collab, or just to nerd out over some code, I'm always down. Hit me up through:
+
+[Contact Me](https://forms.gle/uHzrUJ2uHeZ9RN6R9)
+
+
+Thanks for checking out my profile. Let’s build something epic! 🚀
